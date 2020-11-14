@@ -44,7 +44,7 @@
   definition: "a statistical method for processing data. It works by organizing items into groups, or clusters, on the basis of how closely associated they are."
   reference: https://www.qualtrics.com/experience-management/research/cluster-analysis/
   example: !xml |
-           <p> "We can conduct a cluster analysis to find out which flowers belong to the same species." <p>
+           <p> "We can conduct a <b>cluster analysis</b> to find out which flowers belong to the same species." <p>
            
 - term: "Cohort Analysis"
   definition: "group by group analytic treatment of individuals having a statistical factor in common to each group. Group members share a particular characteristic (e.g., born in a given year) or a common experience (e.g., entering a college at a given time)."
@@ -57,6 +57,8 @@
 - term: "Contract course"
   definition: "supervised individual research or investigation under guidance of faculty member, with a culminating paper or project"
   reference: https://www.registrar.ucla.edu/Registration-Classes/Enrollment Policies/Enrollment-Restrictions/Contract-Courses
+  example: !xml |
+           <p> "SRP99/199 is a <b>contract course</b> at UCLA, which means you must create and sign a contract with your research supervisor to enroll."
   
 - term: "CV (Curriculum Vitae)"
   definition: "A curriculum vitae, also called a vita or CV, is similar to a résumé and provides key information about your skills, education, and experience to a potential employer. A CV is typically used to apply for academic and research positions and for some graduate programs. It is longer than a résumé and displays academic credentials and accomplishments in greater detail."
