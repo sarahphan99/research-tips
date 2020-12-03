@@ -129,6 +129,8 @@
 - term: "Margin of Error"
   definition: "the permittable or acceptable deviation from the target or a specific value. The allowance for slight error or miscalculation or changing circumstances in a study."
   reference: https://libguides.usc.edu/writingguide/researchglossary 
+  example: !xml |
+           <p class="mt-0 mb-0">"The research’s <b>margin of error</b> for drug efficacy must be narrowed down as much as possible for its conclusion to be received as creditable."</p>
   
 - term: "Methodology"
   definition: "Research methodology is the specific procedures or techniques used to identify, select, process, and analyze information about a topic. In a research paper, the methodology section allows the reader to critically evaluate a study’s overall validity and reliability. It answers two main questions - How was the data collected or generated? How was it analyzed?"
@@ -185,10 +187,14 @@
 - term: "Qualitative research"
   definition: "Qualitative research is multimethod in focus, involving an interpretive, naturalistic approach to its subject matter. This means that qualitative researchers study things in their natural settings, attempting to make sense of, or interpret, phenomena in terms of the meanings people bring to them"
   reference: https://www.simplypsychology.org/qualitative-quantitative.html
-
+  example: !xml |
+           <p class="mt-0 mb-0">"My biology class conducts a school trip every year to the Hudson river to collect data for <b>qualitative research</b> of the ecosystem in our area."</p>
+  
 - term: "Quantitative research"
   definition: "research that gathers numerical data and generalizing it across groups of people or to explain a particular phenomenon"
   reference: https://libguides.usc.edu/writingguide/quantitative
+  example: !xml |
+           <p class="mt-0 mb-0">"<b>"Quantitative research</b> must be conducted to examine the amount of infected individuals and analyze the spread of the coronavirus."</p>
   
 - term: "Research grant"
   definition: "non-repayable funds or products disbursed or given by one party (grant makers), often a government department, corporation, foundation or trust, to a recipient, often (but not always) a nonprofit entity, educational institution, business or an individual."
@@ -248,3 +254,5 @@
 - term: "Translational Research"
   definition: "medical research that is concerned with facilitating the practical application of scientific discoveries to the development and implementation of new ways to prevent, diagnose, and treat disease"
   reference: https://www.merriam-webster.com/dictionary/translational%20research
+  example: !xml |
+           <p class="mt-0 mb-0">"The lab’s <b>translational research</b> on herbal candies has been successful and is targeted to be mass-produced."</p>
