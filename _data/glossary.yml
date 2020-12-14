@@ -32,6 +32,13 @@
   reference: https://guides.library.ucla.edu/start/articles
   example: !xml |
            <p class="mt-0 mb-0">"The <a href="https://philpapers.org/" target="_blank">PhilPapers</a> <b>article database</b> is a great place to find academic articles about philosophy."</p>
+           
+- term: "Audit report"
+  definition: "A printed record of a personalized degree plan and an analysis of academic progress for each student based on the catalog requirements for a degree."
+  reference: https://www.pepperdine.edu/registrar/dar/report.htm 
+  example: !xml |
+           <p class="mt-0 mb-0">She found out she missed out taking a course after checking her degree <b>audit report</b>. </p>
+  draft: true #remove this line to show the term on the page!
   
 - term: "Case study"
   definition: "The collection and presentation of detailed information about a particular participant or small group, frequently including data derived from the subjects themselves."
@@ -129,6 +136,9 @@
 - term: "Margin of error"
   definition: "The permittable or acceptable deviation from the target or a specific value. The allowance for slight error or miscalculation or changing circumstances in a study."
   reference: https://libguides.usc.edu/writingguide/researchglossary 
+  example: !xml |
+           <p class="mt-0 mb-0">The research’s <b>margin of error</b> for drug efficacy must be narrowed down as much as possible for its conclusion to be received as creditable.</p>
+  draft: true #remove this line to show the term on the page!
   
 - term: "Methodology"
   definition: "Research methodology is the specific procedures or techniques used to identify, select, process, and analyze information about a topic. In a research paper, the methodology section allows the reader to critically evaluate a study’s overall validity and reliability. It answers two main questions - How was the data collected or generated? How was it analyzed?"
@@ -185,10 +195,16 @@
 - term: "Qualitative research"
   definition: "Qualitative research is multimethod in focus, involving an interpretive, naturalistic approach to its subject matter. This means that qualitative researchers study things in their natural settings, attempting to make sense of, or interpret, phenomena in terms of the meanings people bring to them."
   reference: https://www.simplypsychology.org/qualitative-quantitative.html
-
+  example: !xml |
+           <p class="mt-0 mb-0">Our biology class conducts a school trip every year to the Hudson river to collect data for <b>qualitative research</b> of the ecosystem in our area.</p>
+  draft: true #remove this line to show the term on the page!
+  
 - term: "Quantitative research"
   definition: "Research that gathers numerical data and generalizing it across groups of people or to explain a particular phenomenon."
   reference: https://libguides.usc.edu/writingguide/quantitative
+  example: !xml |
+           <p class="mt-0 mb-0"><b>Quantitative research</b> must be conducted to examine the amount of infected individuals and analyze the spread of the coronavirus</p>
+  draft: true #remove this line to show the term on the page!
   
 - term: "Research grant"
   definition: "Non-repayable funds or products disbursed or given by one party (grant makers), often a government department, corporation, foundation or trust, to a recipient, often (but not always) a nonprofit entity, educational institution, business or an individual."
